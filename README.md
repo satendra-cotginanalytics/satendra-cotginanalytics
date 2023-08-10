@@ -21,7 +21,7 @@ Hello there! 👋 My name is Satendra Singh, and I'm a passionate software engin
 I'm always eager to connect and collaborate. Whether you have an interesting project in mind, want to discuss a tech topic, or just want to say hello, feel free to reach out to me:
 
 - LinkedIn: [linkedin.com/in/satendrasingh-profile](https://in.linkedin.com/in/satendra-singh-saini-72a21919b)
-- GitHub: [github.com/satendrasingh-23](https://github.com/satendrasingh51)
+- GitHub: [github.com/satendrasingh51](https://github.com/satendrasingh51)
 - Email: mr.satendrasingh51@gmail.com
 
 Let's code, innovate, and make the digital world a better place together!
